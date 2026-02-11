@@ -89,3 +89,5 @@ ORDER BY sales_month;
 - ORDER BY
 - LIMIT
 - String manipulation (substr)
+- Revenue Analysis
+- Customer Segementation
